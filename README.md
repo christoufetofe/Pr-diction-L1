@@ -3,6 +3,8 @@ Modèle de Deep Learning pour la prédiction de match de foot de L1
 
 Utilisation d'un réseau de neurones pour prédir l'issue d'un match de L1
 
+Pour l'environnement lancer la commande "pip install -r requirement.txt"
+
 Etape 1 : scraping sur le site ligue1.fr pour récupérer l'historique des matchs de L1
 
 -Calendrier + Classement
@@ -19,6 +21,8 @@ Etape 4 : Prédiction des matchs
 Deep Learning model for predicting L1 football matches
 
 Using a neural network to predict the outcome of an L1 match
+
+To install the environment, run the command 'pip install -r requirement.txt'
 
 Step 1: Scraping on the ligue1.fr website to retrieve the history of L1 matches
 
